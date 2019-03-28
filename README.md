@@ -1,4 +1,4 @@
-# Html-exercices
+This is a series of assignment in the context of a web development training program in its early stage.
 
 
 # Projet
